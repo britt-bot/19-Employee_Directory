@@ -11,8 +11,8 @@ class App extends Component {
     result: [],
     search: "",
     error: "",
-    sortedCountries: [],
-    rawResults: []
+    rawResults: [],
+    filtered: false
   };
 
   componentDidMount() {
@@ -41,8 +41,13 @@ class App extends Component {
     }
   };
 
-  filterByGender = () => {
-    
+  filterByGender = (e) => {
+    if (e.target.value === "clear") {
+      this.setState({ result:this.state.rawResults });
+    } else {
+      const filtered = this.state.rawResults.filter(obj => obj.gender === e.target.value)
+      this.setState({ result:filtered });
+    }
   };
 
   render() {
@@ -54,6 +59,18 @@ class App extends Component {
             <Form.Control as="select" onChange={this.sortByCountry}>
               <option value="clear">clear</option>
               <option value="country">Country</option>
+              {/* <option>3</option>
+              <option>4</option>
+              <option>5</option> */}
+            </Form.Control>
+        </Form.Group>
+
+        <Form.Group controlId="exampleForm.ControlSelect1">
+          <Form.Label>Filter by:</Form.Label>
+            <Form.Control as="select" onChange={this.filterByGender}>
+              <option value="clear">clear</option>
+              <option value="male">Male</option>
+              <option value="female">Female</option>
               {/* <option>3</option>
               <option>4</option>
               <option>5</option> */}
