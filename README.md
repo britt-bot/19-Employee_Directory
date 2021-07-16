@@ -1,7 +1,7 @@
 # 19-Employee_Directory
 ## Description 
 
-This CMS-style blog application, follows MVC paradigm architectural structure, using Handlebars.js, Sequelize, and express-session npm package for authentication.
+This Employee Directory app is designed with React to show employees. You are then able to sort and filter based on country and gender. 
 
 
 ## Table of Contents 
@@ -18,14 +18,15 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[Homework 17 - Workout Tracker GitHub Repo](https://github.com/britt-bot/17-Workout_Tracker)
+[Homework 19 - Employee Directory GitHub Repo](https://github.com/britt-bot/19-Employee_Directory)
+[Homework 19 - Employee Directory Heroku Repo](https://employee-tracker--homework-19.herokuapp.com/)
 
 
 
 
 ## Usage 
 
-A README is a document used to explain an application. Including what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions.
+This app is used to see employees. You can sort by country and filter by gender, this is to help narrow down who you are looking for. 
 
 
 ## Credits
@@ -34,11 +35,9 @@ Third Party Assets:
 
 [NPM](https://www.npmjs.com/)
 
-[Sequelize](https://sequelize.org/)
+[React](https://reactjs.org/)
 
-[Express](https://expressjs.com/)
-
-[MySQL](https://www.mysql.com/)
+[Random User API](https://randomuser.me/)
 
 
 ## License
