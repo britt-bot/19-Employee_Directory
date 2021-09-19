@@ -1,3 +1,4 @@
+![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 # 19-Employee_Directory
 ## Description 
 
@@ -22,8 +23,6 @@ Open the desired web browser and go to the page url for either the Repo or the D
 [Homework 19 - Employee Directory Heroku Repo](https://employee-tracker--homework-19.herokuapp.com/)
 
 
-
-
 ## Usage 
 
 This app is used to see employees. You can sort by country and filter by gender, this is to help narrow down who you are looking for. 
@@ -38,6 +37,8 @@ Third Party Assets:
 [React](https://reactjs.org/)
 
 [Random User API](https://randomuser.me/)
+
+[Create React App](https://github.com/facebook/create-react-app)
 
 
 ## License
