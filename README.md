@@ -21,7 +21,7 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 [Employee Directory GitHub Repo](https://github.com/britt-bot/19-Employee_Directory)
 
-[Employee Directory Heroku Repo](https://employee-tracker--homework-19.herokuapp.com/)
+[Employee Directory Heroku Deploy](https://employee-tracker--homework-19.herokuapp.com/)
 
 
 ## Usage 
