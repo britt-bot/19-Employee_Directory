@@ -1,8 +1,8 @@
 ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-# 19-Employee_Directory
+# Employee_Directory
 ## Description 
 
-This Employee Directory app is designed with React to show employees. You are then able to sort and filter based on country and gender. 
+This Employee Directory application, is designed with React to show employees. You are then able to sort and filter based on country and gender. 
 
 
 ## Table of Contents 
@@ -19,14 +19,14 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[Employee Directory GitHub Repo](https://github.com/britt-bot/19-Employee_Directory)
+[Employee Directory Repo](https://github.com/britt-bot/19-Employee_Directory)
 
-[Employee Directory Heroku Deploy](https://employee-tracker--homework-19.herokuapp.com/)
+[Employee Directory Deploy](https://employee-tracker--homework-19.herokuapp.com/)
 
 
 ## Usage 
 
-This app is used to see employees. You can sort by country and filter by gender, this is to help narrow down who you are looking for. 
+This application is used to see employees. You can sort by country and filter by gender, this is to help narrow down who you are looking for. 
 
 
 ## Credits
