@@ -19,7 +19,7 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[Employee Directory Repo](https://github.com/britt-bot/19-Employee_Directory)
+[Employee Directory Repo](https://github.com/britt-bot/Employee_Directory)
 
 [Employee Directory Deploy](https://employee-tracker--homework-19.herokuapp.com/)
 
@@ -27,6 +27,8 @@ Open the desired web browser and go to the page url for either the Repo or the D
 ## Usage 
 
 This application is used to see employees. You can sort by country and filter by gender, this is to help narrow down who you are looking for. 
+
+![screenshot](https://user-images.githubusercontent.com/77466708/139321309-782873de-daaf-47b2-9e08-38e9caa96163.png)
 
 
 ## Credits
